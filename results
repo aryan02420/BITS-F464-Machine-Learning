@@ -1,0 +1,60 @@
+Iris-setosa-versicolor
+
+OC(SVM)   accuracy = 0.3
+OC(RF)    accuracy = 0.463333
+TC(RF)    accuracy = 0.999333
+TC(NB)    accuracy = 0.933333
+
+MultiKOC    SVM         RF
+clusters    accuracy    accuracy
+1	          0.666666	  0.843333
+2	          0.700000	  0.823333
+3	          0.700000	  0.856666
+4	          0.736666	  0.79    
+5	          0.706666	  0.766666
+6	          0.590000	  0.806666
+7	          0.599999	  0.756666
+8	          0.563333	  0.860000
+9	          0.583333	  0.696666
+
+============================
+
+Iris-setosa-verginica
+
+OC(SVM)   accuracy = 0.366667
+OC(RF)    accuracy = 0.503
+TC(RF)    accuracy = 1.0
+TC(NB)    accuracy = 1.0
+
+MultiKOC    SVM         RF
+clusters    accuracy    accuracy
+1	          0.366666	  0.79    
+2	          0.733333	  0.813333
+3	          0.533333	  0.72    
+4	          0.57    	  0.713333
+5	          0.633333	  0.616666
+6	          0.533333	  0.623333
+7	          0.456666	  0.753333
+8	          0.45    	  0.703333
+9	          0.433333	  0.726666
+
+============================
+
+Iris-versicolor-verginica
+
+OC(SVM)   accuracy = 0.366667
+OC(RF)    accuracy = 0.475
+TC(RF)    accuracy = 1.0
+TC(NB)    accuracy = 1.0
+
+MultiKOC    SVM         RF
+clusters    accuracy    accuracy
+1	          0.700000	  0.783333
+2	          0.799999	  0.786666
+3	          0.633333	  0.693333
+4	          0.666666	  0.733333
+5	          0.573333	  0.62
+6	          0.539999	  0.476666
+7	          0.539999	  0.516666
+8	          0.529999	  0.586666
+9	          0.539999	  0.690000
